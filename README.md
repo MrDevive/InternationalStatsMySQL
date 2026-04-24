@@ -24,11 +24,11 @@ MySQL-плагин для сбора и хранения статистики и
 Пошаговая инструкция, которая подойдет даже новичку
 
 1. Склонируйте репозиторий
-```git clone https://github.com/MrDevive/InternationalStatsMySQL_Plugin.git```
+```git clone https://github.com/MrDevive/InternationalStatsMySQL.git```
 2. Откройте проект в IDEA
 - Запустите IntelliJ IDEA.
 - На экране приветствия нажмите ```Open``` (или ```File``` -> ```Open``` в уже открытом проекте).
-- Выберите папку, в которую вы склонировали репозиторий (например, ```InternationalStatsMySQL_Plugin```), и нажмите OK.
+- Выберите папку, в которую вы склонировали репозиторий (например, ```InternationalStatsMySQL```), и нажмите OK.
 3. Настройте JDK
 - Проект требует Java 17 или новее.
 - Если IDEA попросит выбрать SDK: нажмите ```File``` -> ```Project Structure``` -> ```Project``` -> в ```SDK``` выберите установленную версию Java 17+.
