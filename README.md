@@ -65,4 +65,4 @@ mysql:
 ```
 ## 📄 Лицензия
 
-Распространяется под лицензией **MIT**. Подробности смотрите в файле [LICENSE](LICENSE).
+Распространяется под лицензией **MIT**. Подробности смотрите в файле [LICENSE](https://github.com/MrDevive/InternationalStatsMySQL/blob/main/LICENCE).
