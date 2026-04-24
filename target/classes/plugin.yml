@@ -1,0 +1,6 @@
+name: InternationalStatsMySQL
+version: 1.0.0
+main: com.example.internationalstatsmysql.InternationalStatsMySQL
+api-version: "1.21"
+description: Собирается статистику об игроках и передаёт её в базу данных MySQL
+author: Devive
