@@ -1,7 +1,7 @@
 mysql:
-  host: 127.0.1.31
+  host: 127.0.0.1
   port: 3306
-  database: international_minecraft_auth
+  database: database_name
   username: root
-  password: root
+  password:  password 
   table: player_stats
