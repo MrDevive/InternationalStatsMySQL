@@ -62,10 +62,6 @@ mysql:
   database: stats_db
   username: root
   password: your_password
-
-settings:
-  update-interval: 60  # обновление каждые 60 секунд
-  save-on-quit: true   # сохранять статистику при выходе
 ```
 ## 📄 Лицензия
 
